@@ -1,5 +1,6 @@
 ---
 title: Stephanie's website
+layout: default
 ---
 
 ## Steph's website
